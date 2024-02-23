@@ -1,0 +1,11 @@
+[2024-02-23 21:22:53] Given port number 5555
+[2024-02-23 21:22:53] Given hostname localhost
+[2024-02-23 21:22:53] Write to server: OI
+[2024-02-23 21:22:53] Read from socket server OI
+[2024-02-23 21:22:53] Read the correct echo OI
+[2024-02-23 21:22:53] Read from socket server 
+[2024-02-23 21:22:53] Writing echo for socket server 
+[2024-02-23 21:22:53] Generated obstacles O[2]6.000,6.000|7.000,6.000
+[2024-02-23 21:22:53] Write to server: O[2]6.000,6.000|7.000,6.000
+[2024-02-23 21:22:53] Read from socket server 
+[2024-02-23 21:22:53] Read the wrong echo 

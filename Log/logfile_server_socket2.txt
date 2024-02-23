@@ -1,0 +1,14 @@
+[2024-02-23 21:20:56] My PID:  21804
+[2024-02-23 21:20:56] Watchdog PID:  21799
+[2024-02-23 21:20:56] Started listening to new clients 15
+[2024-02-23 21:20:57] Sending a signal to watchdog 21799
+[2024-02-23 21:20:58] Sending a signal to watchdog 21799
+[2024-02-23 21:21:00] Sending a signal to watchdog 21799
+[2024-02-23 21:21:01] Sending a signal to watchdog 21799
+[2024-02-23 21:21:02] Sending a signal to watchdog 21799
+[2024-02-23 21:21:02] New client connection 11
+[2024-02-23 21:21:02] Recieved the first message from client: TI
+[2024-02-23 21:21:02] First message from target TI
+[2024-02-23 21:21:02] Sent echo to client TI
+[2024-02-23 21:21:02] Write to client: 100.000, 100.000
+[2024-02-23 21:21:02] Sent window size to client 100.000, 100.000
