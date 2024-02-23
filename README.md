@@ -33,6 +33,15 @@ make clean
 ```
 make clean logs
 ```
+To connect the socket as client, run this:
+```
+./master clients <hostname> <portnumber>
+
+```
+To connect the socket as server, run this: 
+```
+./master server <portnumber>
+```
 
 
 
