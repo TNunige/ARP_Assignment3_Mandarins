@@ -35,7 +35,7 @@ make clean logs
 ```
 To connect the socket as client, run this:
 ```
-./master clients <hostname> <portnumber>
+./master client <hostname> <portnumber>
 
 ```
 To connect the socket as server, run this: 
